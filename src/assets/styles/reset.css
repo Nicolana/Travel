@@ -1,3 +1,8 @@
 body{
 	font-size: .8rem;
 }
+
+ul, button{
+  margin: 0;
+  padding: 0;
+}
