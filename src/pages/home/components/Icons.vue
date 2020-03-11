@@ -19,7 +19,6 @@ export default {
   props: {
     list: Array
   },
-  data () {},
   computed: {
     pages () {
       const pages = []
