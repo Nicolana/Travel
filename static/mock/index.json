@@ -1,0 +1,78 @@
+{
+  "ret": true,
+  "data": {
+    "city": "重庆",
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "//imgs.qunarzz.com/vc/44/e9/86/95bc36c9e1c06ebd68bdfe222e.jpg_92.jpg"
+      }, {
+        "id": "0002",
+        "imgUrl": "//imgs.qunarzz.com/vc/6d/9f/35/b8ad5468f73fd60ec0ced086f6.jpg_92.jpg"
+      }, {
+        "id": "0003",
+        "imgUrl": "//imgs.qunarzz.com/vc/ad/7c/fe/037d1a400372ff57b0030d1d1c.jpg_92.jpg"
+      }, {
+        "id": "0004",
+        "imgUrl": "//imgs.qunarzz.com/vc/24/36/10/3fc94d042ae62de380581d4c98.jpg_92.jpg"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1411/34/6aec007588037c2d9ef339d81aeba256.water.jpg_256x160_ec997312.jpg",
+        "title": "重庆-土耳其 10天跟团游",
+        "desc": "错峰钜惠！早订享立减💎蓝色土耳其深度10-12日，洞穴酒店，热气球圣地"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://imgs.qunarzz.com/p/tts2/1708/66/62a51d0822609f02.jpg_r_480x320x90_df7e7c29.jpg",
+        "title": "重庆-迪拜，7天跟团游",
+        "desc": "顶奢迪拜，品质7日🔥豪华四星酒店，打卡棕榈岛+哈利法塔，赠送旅游人身意外险"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vs_tts/0abd521e-2de6-4fdf-86a9-cc6c49f6470a.jpg_r_480x320x90_7aa00bcd.jpg",
+        "title": "重庆-土耳其 10天跟团游",
+        "desc": "错峰钜惠！早订享立减💎蓝色土耳其深度10-12日，洞穴酒店，热气球圣地"
+      }, {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vs_tts/bd85c7f2-f8ee-431d-bed8-46c453bce728.jpg_r_480x320x90_0fd45f3a.jpg",
+        "title": "成都-巴厘岛 7天6晚跟团游",
+        "desc": "顶奢迪拜，品质7日🔥豪华四星酒店，打卡棕榈岛+哈利法塔，赠送旅游人身意外险"
+      }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "/static/icons/canju.png",
+      "desc": "餐具"
+    }, {
+      "id": "0002",
+      "imgUrl": "/static/icons/maojin.png",
+      "desc": "毛巾"
+    }, {
+      "id": "0003",
+      "imgUrl": "/static/icons/baobei.png",
+      "desc": "宝贝"
+    }, {
+      "id": "0004",
+      "imgUrl": "/static/icons/naizui.png",
+      "desc": "奶嘴"
+    }, {
+      "id": "0005",
+      "imgUrl": "/static/icons/shijin.png",
+      "desc": "湿巾"
+    }, {
+      "id": "0006",
+      "imgUrl": "/static/icons/sushenyi.png",
+      "desc": "塑身衣"
+    }, {
+      "id": "0007",
+      "imgUrl": "/static/icons/xiaofangjin.png",
+      "desc": "小方巾"
+    }, {
+      "id": "0008",
+      "imgUrl": "/static/icons/yingerche.png",
+      "desc": "婴儿车"
+    }, {
+      "id": "0009",
+      "imgUrl": "/static/icons/yugang.png",
+      "desc": "浴缸"
+    }]
+  }
+}
